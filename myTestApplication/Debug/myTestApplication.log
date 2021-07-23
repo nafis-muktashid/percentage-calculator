@@ -1,0 +1,5 @@
+﻿  myTestApplication.cpp
+D:\Programming\practiceCpp102\myTestApplication\myTestApplication.cpp(6,23): warning C4101: 'e': unreferenced local variable
+D:\Programming\practiceCpp102\myTestApplication\myTestApplication.cpp(6,26): warning C4101: 'f': unreferenced local variable
+D:\Programming\practiceCpp102\myTestApplication\myTestApplication.cpp(6,20): warning C4101: 'd': unreferenced local variable
+  myTestApplication.vcxproj -> D:\Programming\practiceCpp102\myTestApplication\Debug\myTestApplication.exe
